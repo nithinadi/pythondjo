@@ -1,0 +1,11 @@
+1. Actvate vir env.
+2. Go to first stage folder in your project and type git init
+
+Folow below
+echo "# pythondjo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/nithinadi/pythondjo.git
+git push -u origin main
